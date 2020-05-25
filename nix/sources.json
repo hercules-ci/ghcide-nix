@@ -6,7 +6,7 @@
         "owner": "digital-asset",
         "repo": "ghcide",
         "rev": "9129475b87f9ddf52b1599b086dc93c2f206d969",
-        "sha256": "1d1gw0a94v2djdlfnb31215z495iikcg1wfia5b6zgjjn1z31hwy",
+        "sha256": "0g96mfj9bhn1a844qym82mrzbqxnrncwh2q68wjh9qm3jd30ffih",
         "type": "tarball",
         "url": "https://github.com/digital-asset/ghcide/archive/9129475b87f9ddf52b1599b086dc93c2f206d969.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
